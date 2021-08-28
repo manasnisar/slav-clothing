@@ -79,7 +79,7 @@ const Social = () => {
         <StripesThick
         />
         <Wrapper>
-          <h2 className="title">Use hashtag <span className="title-span">#slavclothing</span>  and show us your style</h2>
+          <h2 className="title">Use hashtag <span className="title-span">#indraclothing</span>  and show us your style</h2>
           <Carousel id="carousel" indicators={false} animation='fade'>
             {
               images.map((image, i) => <Item key={i} image={image} />)
