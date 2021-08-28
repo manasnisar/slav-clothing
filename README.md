@@ -1,6 +1,6 @@
 # CLOTHING STORE
 
-<!-- ## About The Project - [Live Demo](https://brozinsky.github.io/clothing-store) -->
+## About The Project - [Live Demo](https://slav-clothing.herokuapp.com/)
 
 ![overview-gif](doc/overview.gif)
 
