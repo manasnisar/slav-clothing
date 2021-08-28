@@ -61,7 +61,7 @@ const Footer = () => {
                     <hr className="hr" />
                     <small className="copy">
                         Created by
-                        <a className="copy-link" href="https://github.com/manasnisar"> brozinsky</a> &copy;
+                        <a className="copy-link" href="https://github.com/manasnisar"> manasnisar</a> &copy;
                     2021</small>
                 </div>
             </footer>
